@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Proteins, Levels of Structure, Non-Covalent Forces
+type: CourseSection
 uid: 480f15d7-bdab-9947-028a-c0770af7091e
 ---
 <p class="sc_nav">&laquo; <a class="sc_prev" href="./resolveuid/dbb2389211b1a4f7596badacfbfc68bf">Previous</a> | <a class="sc_next" href="./resolveuid/bd3cadf97b4ddb1eb647150dd3af6877">Next</a> &raquo;</p> <h2 class="subhead">Session Overview</h2> <table class="sc_overview">     <tbody>         <tr>             <td><img src="./resolveuid/6a9ce17c993e8b87b60b90dfb6b0e928" alt="Biochem_sess4.jpg" /></td>             <td><p>This session will introduce the general composition, structure, and function of proteins. The relationship between structure and function of a protein will be emphasized.</p>             <p><em>Learning Objectives</em></p>             <ul class="arrow">                 <li><em>To understand the general composition of a protein.</em></li>                 <li><em>To draw a generic amino acid and categorize each of the 20 amino acids appropriately based upon the nature of the side chain.</em></li>                 <li><em>To understand primary, secondary, tertiary, and quaternary levels of protein structure and know what types of bonds and forces stabilize each level.</em></li>                 <li><em>To understand the effect of an amino acid substitution on the general structure and function of a protein.</em></li>             </ul></td>         </tr>     </tbody> </table> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>92498856proteins,levelsofstructure,non-covalentforces,excerpt197522789</li> </ul> <h2 class="subhead">Check Yourself</h2> <div id="quizArea">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">

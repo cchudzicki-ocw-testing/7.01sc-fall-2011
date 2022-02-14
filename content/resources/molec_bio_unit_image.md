@@ -9,7 +9,11 @@ image_metadata:
     proteins is made by ribosomes.
   credit: Wikimedia Commons, by LadyofHats.
   image-alt: a diagram showing a ribosome in a cell, messenger RNA, and protein synthesis
+learning_resource_types: []
+parent_title: Molecular Biology
+parent_type: CourseSection
 resourcetype: Image
 title: Molec_Bio_Unit_image.jpg
+type: OCWImage
 uid: 1dc8c931-f424-1fa8-53ff-77dee621eb18
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Linkage and Recombination, Genetic Maps
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Linkage and Recombination, Genetic maps
 uid: e15e2473-ef1b-45a9-b38b-8e3bf649ce56

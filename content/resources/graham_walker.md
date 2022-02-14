@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the Instructors
+parent_type: CourseSection
 resourcetype: Image
 title: Graham_Walker.jpg
+type: OCWImage
 uid: 15f29f55-d537-b94c-7181-a5066d376aab
 ---

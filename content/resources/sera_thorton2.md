@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: sera_thorton2.jpg
+type: OCWImage
 uid: 2410ffc2-0e79-6337-8d1e-bf36f46c4f70
 ---

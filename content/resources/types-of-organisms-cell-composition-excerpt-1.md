@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Types of Organisms, Cell Composition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Types of Organisms, Cell Composition, Excerpt 1
 uid: 4daca363-0ee6-998d-cb2b-3e9b66699ee4

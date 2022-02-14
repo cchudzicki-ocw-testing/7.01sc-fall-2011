@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Alternative Approaches to Molecular Biology
+parent_type: CourseSection
 resourcetype: Image
 title: OCWmobiosession4_quizzes_clip_image002.png
+type: OCWImage
 uid: a175624b-9d27-9a0b-9377-d039a0d4f4df
 ---

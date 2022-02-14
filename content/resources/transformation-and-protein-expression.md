@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: cDNA Libraries and Expression Libraries
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Transformation and Protein Expression
 uid: be5fb4b7-8c03-4b3f-b853-d41d95a91c07

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Basic Mechanisms of Cloning, Excerpt 3
 uid: 8c703fa2-9afe-f6a5-c8d6-e57458e6054b

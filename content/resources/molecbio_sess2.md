@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: DNA Replication
+parent_type: CourseSection
 resourcetype: Image
 title: Molecbio_sess2.jpg
+type: OCWImage
 uid: a0185aa2-5536-af8f-c2bb-44ce5be2d53e
 ---

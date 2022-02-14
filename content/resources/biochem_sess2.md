@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Covalent Bonds, Hydrogen Bonds
+parent_type: CourseSection
 resourcetype: Image
 title: Biochem_sess2.jpg
+type: OCWImage
 uid: d13b1cdd-7486-4a60-afe8-3f6c4daae104
 ---

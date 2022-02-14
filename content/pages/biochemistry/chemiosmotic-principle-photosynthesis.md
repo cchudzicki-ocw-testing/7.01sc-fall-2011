@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Biochemistry
+parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Photosynthesis
+type: CourseSection
 uid: 21ec09e3-3607-ce4c-8530-a4a4a138a48f
 ---
 <p class="sc_nav">&laquo; <a href="./resolveuid/3998b78c9a613c82442fd3aae9f91274" class="sc_prev">Previous</a> | <a href="./resolveuid/1dea315f439212b884bae05ff4797b1e" class="sc_next">Next</a> &raquo;</p> <h2 class="subhead">Session Overview</h2> <table class="sc_overview">     <tbody>         <tr>             <td><img alt="Biochem_sess7.jpg" src="./resolveuid/16c91850880759f74d4032586e72e982" /></td>             <td><p>This session will introduce the general ideas of both cyclic and non-cyclic photophosphorylation and how these two processes are used by cells to generate the ATP and the NADPH needed for the Calvin Cycle in photosynthesis.</p>             <p><em>Learning Objectives</em></p>             <ul class="arrow">                 <li><em>To know that photosynthesis can convert light energy into chemical energy.</em></li>                 <li><em>To understand how the light reactions convert solar energy into ATP and NADPH.</em></li>                 <li><em>To understand that the Calvin cycle uses the chemical energy of ATP and NADPH produced in the light reactions to reduce CO<sub>2</sub> to sugar.</em></li>                 <li><em>To understand the relationships between cellular respiration and photosynthesis.</em></li>             </ul></td>         </tr>     </tbody> </table> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>16370312photosynthesis9047650</li> </ul> <h2 class="subhead">Check Yourself</h2> <div id="quizArea">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">

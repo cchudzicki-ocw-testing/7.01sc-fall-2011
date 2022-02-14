@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: cDNA Libraries and Expression Libraries
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: cDNA Libraries and Expression Libraries
 uid: b0808b85-12ed-9436-a3ef-b4bb7e4f9e30

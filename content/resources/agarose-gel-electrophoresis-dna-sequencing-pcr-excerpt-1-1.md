@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1
 uid: a17ccd77-b720-1718-ae65-68646da48dab

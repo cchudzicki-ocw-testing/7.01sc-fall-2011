@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Lipids, Carbohydrates, and Nucleic Acids Practice Problem
 uid: 21fdc52d-7de4-9a5b-de0f-4466dfaf7320

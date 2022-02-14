@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Biochemical Reactions, Enzymes, and ATP
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Biochemical Reactions, Enzymes, and ATP
 uid: 39d51ccb-8c4f-45a0-ab03-ca8203a31c74

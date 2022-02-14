@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mendel's Laws
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Mendel's Laws, Excerpt 2
 uid: 02fc6185-4795-af10-306e-d4e44d2ed4b4

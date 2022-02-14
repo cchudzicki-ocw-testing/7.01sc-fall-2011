@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Molecular Biology
+type: CourseSection
 uid: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
 ---
 

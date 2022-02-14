@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Constructing and Screening a Recombinant DNA Library
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Genomic and cDNA Libraries
 uid: b34b57e6-5e96-90d4-a226-0e15b740b195

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: DNA Replication
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Explanation of 5' and 3', C terminus, and N terminus
 uid: f4448a8c-3331-c4f1-d253-697a6e86ca8f

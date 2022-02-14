@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Transcription, Translation
+parent_type: CourseSection
 resourcetype: Image
 title: Molecbio_sess3.jpg
+type: OCWImage
 uid: b54d807c-b9e0-b9a7-1a1f-824fb10cef25
 ---

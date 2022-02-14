@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Glycolysis, Respiration, and Fermentation
+parent_type: CourseSection
 resourcetype: Image
 title: Biochem_sess6.jpg
+type: OCWImage
 uid: 4ea1e58c-af3e-42d8-0d3c-d2b910f30596
 ---

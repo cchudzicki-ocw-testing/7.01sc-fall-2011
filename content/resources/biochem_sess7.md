@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Photosynthesis
+parent_type: CourseSection
 resourcetype: Image
 title: Biochem_sess7.jpg
+type: OCWImage
 uid: 16c91850-8807-59f7-4d40-32586e72e982
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: robert_dorkin.jpg
+type: OCWImage
 uid: bff69c56-6199-222c-f8fe-907f1b9fba75
 ---

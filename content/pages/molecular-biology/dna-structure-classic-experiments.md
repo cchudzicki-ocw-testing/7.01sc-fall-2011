@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Molecular Biology
+parent_type: CourseSection
 parent_uid: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
 title: DNA Structure, Classic Experiments
+type: CourseSection
 uid: 95026c63-e557-0d98-9ab2-ebdcc99b4dfd
 ---
 

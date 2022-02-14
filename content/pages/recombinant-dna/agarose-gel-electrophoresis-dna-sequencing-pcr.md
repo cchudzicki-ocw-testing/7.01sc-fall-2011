@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Recombinant DNA
+parent_type: CourseSection
 parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
+type: CourseSection
 uid: fba42aaa-936f-9894-51b5-9a8798c9d7a0
 ---
 <p class="sc_nav">&laquo; <a class="sc_prev" href="./resolveuid/ea56404f54a87d1d4cf21c7a12786b51">Previous</a> | <a class="sc_next" href="./resolveuid/ed024195afd930128daec1f0592fe634">Next</a> &raquo;</p> <h2 class="subhead">Session Overview</h2> <table class="sc_overview">     <tbody>         <tr>             <td><img src="./resolveuid/ca46df1fe3bd9b002117c7c085c52b1a" alt="RecombDNA_sess5.jpg" /></td>             <td><p>This session will outline methods to analyze genes identified through recombinant DNA technologies.</p>             <p><em>Learning Objectives</em></p>             <ul class="arrow">                 <li><em>To understand what an agarose gel is and how to use agarose gel electrophoresis to analyze DNA molecules.</em></li>                 <li><em>To understand the basic mechanism of DNA sequencing by the dideoxy chain termination method.</em></li>                 <li><em>To know that there is a vast database containing the DNA sequence of the entire genomes for many different organism, and understand why this is useful.</em></li>                 <li><em>To understand the basic mechanism of the polymerase chain reaction (PCR) method of amplifying DNA and know when to use this technique.</em></li>             </ul></td>         </tr>     </tbody> </table> <h2 class="subhead">Session Activities</h2> <h3 class="subsubhead">Lecture Video</h3> <p>Watch the lecture video excerpt</p> <ul class="arrow">     <li>51856746agarosegelelectrophoresis,dnasequencing,pcr,excerpt189892852</li> </ul> <h2 class="subhead">Check Yourself</h2> <div id="quizArea">&nbsp;</div> <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script> <script type="text/javascript" src="/scripts/jQuizMe-uncompressed.js"></script> <script type="text/javascript">
