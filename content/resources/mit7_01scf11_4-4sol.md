@@ -5,6 +5,7 @@ description: This resource contains solution to the problem set related to cDNA 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/04ca13574f83a54e3fd74fc5b9cabbc1_MIT7_01SCF11_4.4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: cDNA Libraries and Expression Libraries
 parent_type: CourseSection
 resourcetype: Document

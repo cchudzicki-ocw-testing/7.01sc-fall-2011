@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: an image showing the steps of cloning in bacterial cells.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Recombinant DNA
 parent_type: CourseSection
 resourcetype: Image

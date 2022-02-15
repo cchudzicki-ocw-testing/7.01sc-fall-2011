@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Alternative Approaches to Molecular Biology
 parent_type: CourseSection
 resourcetype: Image

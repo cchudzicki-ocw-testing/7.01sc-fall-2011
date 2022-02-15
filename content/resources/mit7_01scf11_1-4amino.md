@@ -5,6 +5,7 @@ description: This resource contains information related to structures of amino a
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/274df9f4b3cead031889d1a3448360d9_MIT7_01SCF11_1.4amino.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Proteins, Levels of Structure, Non-Covalent Forces
 parent_type: CourseSection
 resourcetype: Document

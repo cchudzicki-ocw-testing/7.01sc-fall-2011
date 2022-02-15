@@ -4,6 +4,7 @@ description: This resource contains problem sets related to biochemical genetics
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/dadce1d4aaafd7e04a2775c28362787b_MIT7_01SCF11_3.4prob1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Biochemical Genetics
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains solution to the problem set related to bioch
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/653bf5bdea8911e0e42e998999d13cb9_MIT7_01SCF11_1.5sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Biochemical Reactions, Enzymes, and ATP
 parent_type: CourseSection
 resourcetype: Document

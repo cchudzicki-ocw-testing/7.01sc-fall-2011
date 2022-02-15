@@ -9,6 +9,7 @@ image_metadata:
   image-alt: an illustration of the biochemical structures and molecules in a T cell
     receptor
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Biochemistry
 parent_type: CourseSection
 resourcetype: Image

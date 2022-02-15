@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Molecular Biology
 parent_type: CourseSection
 parent_uid: 0cf8a719-a58b-7f0e-6457-939f9b82d24d

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: cDNA Libraries and Expression Libraries
 parent_type: CourseSection
 resourcetype: Image

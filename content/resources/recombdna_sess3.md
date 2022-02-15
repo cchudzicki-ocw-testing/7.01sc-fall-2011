@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Constructing and Screening a Recombinant DNA Library
 parent_type: CourseSection
 resourcetype: Image
