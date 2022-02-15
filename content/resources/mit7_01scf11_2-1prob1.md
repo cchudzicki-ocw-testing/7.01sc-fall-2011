@@ -9,6 +9,5 @@ parent_title: DNA Structure, Classic Experiments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_2.1prob1.pdf
-type: OCWFile
 uid: 20445ba4-4a66-4923-fd74-ae15e3133723
 ---

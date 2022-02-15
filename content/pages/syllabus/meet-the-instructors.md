@@ -5,7 +5,6 @@ parent_title: Syllabus
 parent_type: CourseSection
 parent_uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 title: Meet the Instructors
-type: CourseSection
 uid: 94075d21-fac8-2243-1255-482464d464cb
 ---
 

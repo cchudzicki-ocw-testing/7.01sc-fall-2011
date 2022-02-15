@@ -12,6 +12,5 @@ parent_title: Mendel's Laws
 parent_type: CourseSection
 resourcetype: Image
 title: Genetics_sess_1.jpg
-type: OCWImage
 uid: f2d1f5ce-61d5-ab00-5b5e-a4e2f6151b8d
 ---

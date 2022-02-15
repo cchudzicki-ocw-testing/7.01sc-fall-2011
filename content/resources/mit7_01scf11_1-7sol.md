@@ -9,6 +9,5 @@ parent_title: Photosynthesis
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.7sol.pdf
-type: OCWFile
 uid: 20d10b90-2b67-d561-a1d2-bc360d674398
 ---

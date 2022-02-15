@@ -12,6 +12,5 @@ parent_title: Gene Regulation and the Lac Operon
 parent_type: CourseSection
 resourcetype: Image
 title: Molecbio_sess5.jpg
-type: OCWImage
 uid: d0ea327b-2f9c-48f9-65e8-58df0d863ea0
 ---

@@ -12,6 +12,5 @@ parent_title: Types of Organisms, Cell Composition
 parent_type: CourseSection
 resourcetype: Image
 title: Biochem_sess1.jpg
-type: OCWImage
 uid: fc084a1d-efb5-9e2d-202c-fb8217f732be
 ---

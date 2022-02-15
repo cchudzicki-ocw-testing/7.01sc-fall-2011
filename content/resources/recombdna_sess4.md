@@ -12,6 +12,5 @@ parent_title: cDNA Libraries and Expression Libraries
 parent_type: CourseSection
 resourcetype: Image
 title: RecombDNA_sess4.jpg
-type: OCWImage
 uid: ffa253ed-15aa-5cb1-34cc-7e94d643b2cd
 ---

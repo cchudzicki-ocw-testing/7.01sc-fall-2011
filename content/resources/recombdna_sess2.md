@@ -12,6 +12,5 @@ parent_title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors
 parent_type: CourseSection
 resourcetype: Image
 title: RecombDNA_sess2.jpg
-type: OCWImage
 uid: 5cb273be-f05b-e14f-27fa-cf8d72eb851f
 ---

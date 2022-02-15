@@ -9,6 +9,5 @@ parent_title: cDNA Libraries and Expression Libraries
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_4.4sol.pdf
-type: OCWFile
 uid: 04ca1357-4f83-a54e-3fd7-4fc5b9cabbc1
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Recombinant DNA
-type: CourseSection
 uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 ---
 

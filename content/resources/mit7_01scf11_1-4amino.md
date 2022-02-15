@@ -9,6 +9,5 @@ parent_title: Proteins, Levels of Structure, Non-Covalent Forces
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.4amino.pdf
-type: OCWFile
 uid: 274df9f4-b3ce-ad03-1889-d1a3448360d9
 ---

@@ -12,6 +12,5 @@ parent_title: Pedigrees
 parent_type: CourseSection
 resourcetype: Image
 title: gensession3_quizzes.gif
-type: OCWImage
 uid: 2550e3b6-eb2d-7737-c03c-6626fa4c3352
 ---

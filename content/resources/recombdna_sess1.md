@@ -12,6 +12,5 @@ parent_title: Development of Recombinant DNA
 parent_type: CourseSection
 resourcetype: Image
 title: RecombDNA_sess1.jpg
-type: OCWImage
 uid: 5bfb91f0-9a8a-a63e-ce7a-179bb944b4a5
 ---

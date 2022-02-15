@@ -5,7 +5,6 @@ parent_title: Genetics
 parent_type: CourseSection
 parent_uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 title: Linkage and Recombination, Genetic Maps
-type: CourseSection
 uid: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
 ---
 

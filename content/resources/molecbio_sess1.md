@@ -12,6 +12,5 @@ parent_title: DNA Structure, Classic Experiments
 parent_type: CourseSection
 resourcetype: Image
 title: Molecbio_sess1.jpg
-type: OCWImage
 uid: c7c407f3-cbfe-0b39-65f3-f76e4706debc
 ---

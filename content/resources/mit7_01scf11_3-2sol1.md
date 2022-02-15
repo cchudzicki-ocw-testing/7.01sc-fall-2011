@@ -9,6 +9,5 @@ parent_title: Linkage and Recombination, Genetic Maps
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_3.2sol1.pdf
-type: OCWFile
 uid: 924aa1b0-04f8-64ee-73b9-a1af6fb479b9
 ---

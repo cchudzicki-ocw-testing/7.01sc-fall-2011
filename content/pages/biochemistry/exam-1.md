@@ -5,7 +5,6 @@ parent_title: Biochemistry
 parent_type: CourseSection
 parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 title: Exam 1
-type: CourseSection
 uid: 1dea315f-4392-12b8-84ba-e05ff4797b1e
 ---
 

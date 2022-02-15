@@ -9,6 +9,5 @@ parent_title: Biochemical Reactions, Enzymes, and ATP
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.5prob.pdf
-type: OCWFile
 uid: a61124da-1927-b71d-c733-26804a802b39
 ---

@@ -9,6 +9,5 @@ parent_title: Alternative Approaches to Molecular Biology
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_2.4sol.pdf
-type: OCWFile
 uid: 66339437-fecd-9fdc-19c5-16705430ed35
 ---

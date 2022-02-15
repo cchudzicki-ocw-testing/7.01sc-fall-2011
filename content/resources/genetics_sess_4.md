@@ -12,6 +12,5 @@ parent_title: Biochemical Genetics
 parent_type: CourseSection
 resourcetype: Image
 title: Genetics_sess_4.jpg
-type: OCWImage
 uid: b2237ee4-2cab-9e06-b1b9-57daeb380a14
 ---

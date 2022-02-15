@@ -9,6 +9,5 @@ parent_title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.3prob.pdf
-type: OCWFile
 uid: 41d1c1f8-50ca-eebb-8ba7-e32830c9da55
 ---

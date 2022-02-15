@@ -12,6 +12,5 @@ parent_title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
 parent_type: CourseSection
 resourcetype: Image
 title: RecombDNA_sess5.jpg
-type: OCWImage
 uid: ca46df1f-e3bd-9b00-2117-c7c085c52b1a
 ---

@@ -12,6 +12,5 @@ parent_title: Constructing and Screening a Recombinant DNA Library
 parent_type: CourseSection
 resourcetype: Image
 title: RecombDNA_sess3.jpg
-type: OCWImage
 uid: 6452a408-ad97-66fd-0f23-f512cbfc2e8a
 ---

@@ -12,6 +12,5 @@ parent_title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 parent_type: CourseSection
 resourcetype: Image
 title: Biochem_sess3.jpg
-type: OCWImage
 uid: 0886afe8-72b0-b603-d72d-bea8cf140bd4
 ---

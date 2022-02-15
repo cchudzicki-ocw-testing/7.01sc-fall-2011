@@ -8,6 +8,5 @@ parent_title: Transcription, Translation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_2.3sol.pdf
-type: OCWFile
 uid: 32978b0d-1afb-90f5-579a-b12966f58e1c
 ---

@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Sallie_W_Chisholm.jpg
-type: OCWImage
 uid: 99a3103f-c667-6bff-a741-3aa78f76eae9
 ---

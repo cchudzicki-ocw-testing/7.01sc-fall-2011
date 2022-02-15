@@ -8,6 +8,5 @@ parent_title: Glycolysis, Respiration, and Fermentation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.6prob.pdf
-type: OCWFile
 uid: 92e94b83-a425-a5a1-ee88-e3fe029a5807
 ---

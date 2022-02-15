@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Robert_A_Weinberg.jpg
-type: OCWImage
 uid: feac9fa8-3e86-0171-3448-2ffb7055b2d7
 ---

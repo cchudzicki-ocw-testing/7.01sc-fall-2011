@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Eric_Lander.jpg
-type: OCWImage
 uid: ff8d4170-a018-445a-3950-b82ab9cf0639
 ---

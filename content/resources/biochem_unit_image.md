@@ -13,6 +13,5 @@ parent_title: Biochemistry
 parent_type: CourseSection
 resourcetype: Image
 title: Biochem_Unit_image.jpg
-type: OCWImage
 uid: ccdb398a-9ee3-21f4-6aec-ad712971d832
 ---

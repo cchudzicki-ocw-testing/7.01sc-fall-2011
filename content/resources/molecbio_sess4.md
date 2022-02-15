@@ -12,6 +12,5 @@ parent_title: Alternative Approaches to Molecular Biology
 parent_type: CourseSection
 resourcetype: Image
 title: Molecbio_sess4.jpg
-type: OCWImage
 uid: 75b4e43b-496d-d3a7-183a-505201a6af37
 ---

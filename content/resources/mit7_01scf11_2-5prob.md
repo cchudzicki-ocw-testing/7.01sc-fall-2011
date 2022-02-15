@@ -8,6 +8,5 @@ parent_title: Gene Regulation and the Lac Operon
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_2.5prob.pdf
-type: OCWFile
 uid: a909c3e9-191e-87b1-3b82-f4797c3025b1
 ---

@@ -9,6 +9,5 @@ parent_title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_4.5prob.pdf
-type: OCWFile
 uid: a174da59-6538-49f9-aee3-896e7acdaaad
 ---

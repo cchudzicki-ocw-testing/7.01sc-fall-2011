@@ -12,6 +12,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Image
 title: genevieve_gould.jpg
-type: OCWImage
 uid: d1aa59db-e74d-e4c3-ce6c-d085893ab233
 ---

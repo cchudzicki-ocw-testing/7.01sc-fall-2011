@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Resource Index
-type: CourseSection
 uid: 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9
 ---
 

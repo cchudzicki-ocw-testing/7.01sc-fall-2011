@@ -8,6 +8,5 @@ parent_title: Exam 1
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_exam1_sol.pdf
-type: OCWFile
 uid: 7907dbf2-3243-cc92-4afb-6150c76bf5d5
 ---

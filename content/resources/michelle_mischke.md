@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Michelle_Mischke.jpg
-type: OCWImage
 uid: 58995f1c-9c7e-e330-3210-18ae262234c5
 ---

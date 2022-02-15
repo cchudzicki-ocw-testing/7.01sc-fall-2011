@@ -9,6 +9,5 @@ parent_title: Types of Organisms, Cell Composition
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_1.1prob.pdf
-type: OCWFile
 uid: 809cc567-d934-2d19-5b0d-cda47fcd3a87
 ---

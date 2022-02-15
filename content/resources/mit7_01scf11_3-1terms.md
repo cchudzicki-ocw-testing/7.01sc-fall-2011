@@ -8,6 +8,5 @@ parent_title: Mendel's Laws
 parent_type: CourseSection
 resourcetype: Document
 title: MIT7_01SCF11_3.1terms.pdf
-type: OCWFile
 uid: 13aaf4b7-9c5d-9342-1a12-040f3fad06de
 ---

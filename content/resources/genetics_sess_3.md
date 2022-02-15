@@ -12,6 +12,5 @@ parent_title: Pedigrees
 parent_type: CourseSection
 resourcetype: Image
 title: Genetics_sess_3.jpg
-type: OCWImage
 uid: c6bb8535-3664-a0a1-398f-f83465a669c4
 ---

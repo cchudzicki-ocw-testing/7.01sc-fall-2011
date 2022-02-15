@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: Hazel_Sive.jpg
-type: OCWImage
 uid: aadcec88-6ef0-0f7a-99ea-733d92f38437
 ---
