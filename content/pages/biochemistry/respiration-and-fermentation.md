@@ -9,7 +9,7 @@ title: Glycolysis, Respiration, and Fermentation
 uid: 3998b78c-9a61-3c82-442f-d3aae9f91274
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) | [Next]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) »
+« {{< resource_link bd3cadf9-7b4d-db1e-b647-150dd3af6877 "Previous" >}} | {{< resource_link 21ec09e3-3607-ce4c-8530-a4a4a138a48f "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Biochem_sess6.jpg]({{< resource_file 4ea1e58c-af3e-42d8-0d3c-d2b910f30596 >}})
+{{< resource 4ea1e58c-af3e-42d8-0d3c-d2b910f30596 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Glycolysis, Respiration, and Fermentation]({{< baseurl >}}/resources/glycolysis-respiration-and-fermentation)
+*   {{< resource_link 1d8210e7-a1b8-aa97-0494-024af923ff1d "Glycolysis, Respiration, and Fermentation" >}}
 
 Check Yourself
 --------------
@@ -63,8 +63,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-6sol)
+*   {{< resource_link 92e94b83-a425-a5a1-ee88-e3fe029a5807 "Problems (PDF)" >}}
+*   {{< resource_link 6b5018b5-b59a-0b17-64fa-9f89404ea5bf "Solutions (PDF)" >}}
 
 Further Study
 -------------
@@ -77,4 +77,4 @@ Further Study
 *   ["Cell Respiration" – Cellular Respiration Song](http://www.youtube.com/watch?v=3aZrkdzrd04)
 *   [The ATP Cycle](http://www.youtube.com/watch?v=AhuqXwvFv2E&list=UUE-DexCad-ctXVTE6OhZP8w&index=5&feature=plcp)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) | [Next]({{< baseurl >}}/pages/biochemistry/chemiosmotic-principle-photosynthesis) »
+« {{< resource_link bd3cadf9-7b4d-db1e-b647-150dd3af6877 "Previous" >}} | {{< resource_link 21ec09e3-3607-ce4c-8530-a4a4a138a48f "Next" >}} »

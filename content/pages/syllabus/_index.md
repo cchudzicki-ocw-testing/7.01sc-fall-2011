@@ -6,7 +6,7 @@ title: Syllabus
 uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 ---
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+« [Previous]({{< baseurl >}}/) | {{< resource_link 94075d21-fac8-2243-1255-482464d464cb "Next" >}} »
 
 Course Overview
 ---------------
@@ -81,7 +81,7 @@ This OCW Scholar course was developed by the following MIT Faculty and Teaching 
 *   Prof. Penny Chisholm
 *   Dr. Michelle Mischke
 
-_To learn more about the Faculty and Teaching Staff, visit the [Meet the Instructors]({{< baseurl >}}/pages/syllabus/meet-the-instructors) page._
+_To learn more about the Faculty and Teaching Staff, visit the {{< resource_link 94075d21-fac8-2243-1255-482464d464cb "Meet the Instructors" >}} page._
 
 The Help Session Videos were developed by the following MIT Teaching Assistants:
 
@@ -90,6 +90,6 @@ The Help Session Videos were developed by the following MIT Teaching Assistants:
 *   Genevieve Michelle Gould
 *   Nicole De Nisco
 
-_To learn more about the_ _Teaching Assistants__, visit the [Meet the TAs]({{< baseurl >}}/pages/syllabus/meet-the-tas) page._
+_To learn more about the_ _Teaching Assistants__, visit the {{< resource_link 31b32df7-381e-729e-4a9e-93597670dfd1 "Meet the TAs" >}} page._
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+« [Previous]({{< baseurl >}}/) | {{< resource_link 94075d21-fac8-2243-1255-482464d464cb "Next" >}} »
