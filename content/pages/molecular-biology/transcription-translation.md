@@ -9,7 +9,7 @@ title: Transcription, Translation
 uid: 5e1363df-9828-a8e6-52b1-b90916e83b46
 ---
 
-« {{< resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Previous" >}} | {{< resource_link 6de3012a-82fd-d2a9-25a8-3b85e01dba3d "Next" >}} »
+« {{% resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Previous" %}} | {{% resource_link 6de3012a-82fd-d2a9-25a8-3b85e01dba3d "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   {{< resource_link 88cf1c3f-ccb5-9957-e912-da7b8270c9c2 "Transcription and translation, Excerpt 1" >}}
+*   {{% resource_link 88cf1c3f-ccb5-9957-e912-da7b8270c9c2 "Transcription and translation, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -61,7 +61,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   {{< resource_link f1885c2f-f301-334e-9cb9-d8f0d8169be4 "Transcription and translation, Excerpt 2" >}}
+*   {{% resource_link f1885c2f-f301-334e-9cb9-d8f0d8169be4 "Transcription and translation, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -80,12 +80,12 @@ Session Activities
 
 Watch the short video of Sera Thornton explaining a transcription and translation question that refers to Question 2 in the practice problems below.
 
-*   {{< resource_link 97c544da-758b-2be3-ed06-7aa3901e28cb "Transcription and Translation" >}}
+*   {{% resource_link 97c544da-758b-2be3-ed06-7aa3901e28cb "Transcription and Translation" %}}
 
 ### Practice Problems
 
-*   {{< resource_link 901747a5-3de5-40dd-eec4-301678740aee "Problems (PDF)" >}}
-*   {{< resource_link 32978b0d-1afb-90f5-579a-b12966f58e1c "Solutions (PDF)" >}}
+*   {{% resource_link 901747a5-3de5-40dd-eec4-301678740aee "Problems (PDF)" %}}
+*   {{% resource_link 32978b0d-1afb-90f5-579a-b12966f58e1c "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -99,4 +99,4 @@ Further Study
 *   [Translation Animation (Advanced)](http://www.dnalc.org/resources/3d/16-translation-advanced.html)
 *   [Triplet Code Animation](http://www.dnalc.org/resources/3d/10-triplet-code.html)
 
-« {{< resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Previous" >}} | {{< resource_link 6de3012a-82fd-d2a9-25a8-3b85e01dba3d "Next" >}} »
+« {{% resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Previous" %}} | {{% resource_link 6de3012a-82fd-d2a9-25a8-3b85e01dba3d "Next" %}} »

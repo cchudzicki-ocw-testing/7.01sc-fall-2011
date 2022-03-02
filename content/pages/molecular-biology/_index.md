@@ -6,7 +6,7 @@ title: Molecular Biology
 uid: 0cf8a719-a58b-7f0e-6457-939f9b82d24d
 ---
 
-« {{< resource_link 1dea315f-4392-12b8-84ba-e05ff4797b1e "Previous" >}} | {{< resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Next" >}} »
+« {{% resource_link 1dea315f-4392-12b8-84ba-e05ff4797b1e "Previous" %}} | {{% resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Next" %}} »
 
 {{< resource 1dc8c931-f424-1fa8-53ff-77dee621eb18 >}}
 
@@ -20,6 +20,6 @@ By the end of this unit, you will understand the semi-conservative model of DNA 
 
 Finally, you will understand the different mechanisms working together to regulate the Lac operon, distinguish positive and negative regulatory mechanisms, predict the phenotype caused by different mutations within the components and regulatory features of the Lac operon, and understand the benefit to an organism of regulating genes.
 
-Looking for something specific in this course? The {{< resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Resource Index" >}} compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Resource Index" %}} compiles links to most course resources in a single page.
 
-« {{< resource_link 1dea315f-4392-12b8-84ba-e05ff4797b1e "Previous" >}} | {{< resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Next" >}} »
+« {{% resource_link 1dea315f-4392-12b8-84ba-e05ff4797b1e "Previous" %}} | {{% resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Next" %}} »

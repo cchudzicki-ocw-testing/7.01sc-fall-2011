@@ -9,7 +9,7 @@ title: Linkage and Recombination, Genetic Maps
 uid: 06e0b88b-6715-9f8b-06c3-dbe3474bcaed
 ---
 
-« {{< resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Previous" >}} | {{< resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Next" >}} »
+« {{% resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Previous" %}} | {{% resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video
 
-*   {{< resource_link e15e2473-ef1b-45a9-b38b-8e3bf649ce56 "Linkage and Recombination, Genetic maps" >}}
+*   {{% resource_link e15e2473-ef1b-45a9-b38b-8e3bf649ce56 "Linkage and Recombination, Genetic maps" %}}
 
 Check Yourself
 --------------
@@ -63,8 +63,8 @@ Session Activities
 
 ### Practice Problems
 
-*   {{< resource_link 22ac543d-6d36-a154-b6bd-6fbe7834f832 "Problems (PDF)" >}}
-*   {{< resource_link 924aa1b0-04f8-64ee-73b9-a1af6fb479b9 "Solutions (PDF)" >}}
+*   {{% resource_link 22ac543d-6d36-a154-b6bd-6fbe7834f832 "Problems (PDF)" %}}
+*   {{% resource_link 924aa1b0-04f8-64ee-73b9-a1af6fb479b9 "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -84,4 +84,4 @@ Further Study
 *   [How Cells Divide](http://www.pbs.org/wgbh/nova/body/how-cells-divide.html)
 *   [Dihybrid Crosses and Linked Genes](http://www.youtube.com/watch?v=1_lTyzGTnho&feature=mfu_in_order&list=UL)
 
-« {{< resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Previous" >}} | {{< resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Next" >}} »
+« {{% resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Previous" %}} | {{% resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Next" %}} »

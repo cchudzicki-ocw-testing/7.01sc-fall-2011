@@ -9,7 +9,7 @@ title: Biochemical Genetics
 uid: 4239d3cb-c2e6-6fa7-9750-7ed884c8c657
 ---
 
-« {{< resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Previous" >}} | {{< resource_link 87a11a60-4039-cc5e-e616-1303df9f2adb "Next" >}} »
+« {{% resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Previous" %}} | {{% resource_link 87a11a60-4039-cc5e-e616-1303df9f2adb "Next" %}} »
 
 Session Overview
 ----------------
@@ -47,8 +47,8 @@ Session Activities
 
 For this session, watch the video lecture called "Genetics 3" by Prof. Eric Lander recorded in 2004. Then watch the first 7 ½ minutes of the lecture called "Human Genetics."
 
-*   {{< resource_link c3e04fa4-5272-5586-2ae2-ae3ca3565bfe "Genetics 3" >}}
-*   {{< resource_link 0aea60b7-32a9-0971-2ddb-d9764e2f79c7 "Human Genetics" >}}
+*   {{% resource_link c3e04fa4-5272-5586-2ae2-ae3ca3565bfe "Genetics 3" %}}
+*   {{% resource_link 0aea60b7-32a9-0971-2ddb-d9764e2f79c7 "Human Genetics" %}}
 
 Check Yourself
 --------------
@@ -65,16 +65,16 @@ Session Activities
 
 First, watch the short video of Genny Gould explaining the concept of Complementation.
 
-*   {{< resource_link 1a87cc71-9c15-a396-d8a7-b8b020c2fa2f "Complementation" >}}
+*   {{% resource_link 1a87cc71-9c15-a396-d8a7-b8b020c2fa2f "Complementation" %}}
 
-Next, watch Genny work a Complementation Problem ({{< resource_link c2b92288-5acc-e04e-dfac-a18ba410f636 "PDF" >}}) using fruit flies as an example.
+Next, watch Genny work a Complementation Problem ({{% resource_link c2b92288-5acc-e04e-dfac-a18ba410f636 "PDF" %}}) using fruit flies as an example.
 
-*   {{< resource_link 1795e683-5125-073d-9b0b-5b408abea923 "Complementation (Part II)" >}}
+*   {{% resource_link 1795e683-5125-073d-9b0b-5b408abea923 "Complementation (Part II)" %}}
 
 ### Practice Problems
 
-*   {{< resource_link dadce1d4-aaaf-d7e0-4a27-75c28362787b "Problems (PDF)" >}}
-*   {{< resource_link 86234678-b1e7-ded9-e7f8-6b957c5a8bbb "Solutions (PDF)" >}}
+*   {{% resource_link dadce1d4-aaaf-d7e0-4a27-75c28362787b "Problems (PDF)" %}}
+*   {{% resource_link 86234678-b1e7-ded9-e7f8-6b957c5a8bbb "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -90,4 +90,4 @@ Further Study
 *   [Complementation Test](http://www.britannica.com/EBchecked/topic/1710056/complementation-test)
 *   [Epistasis: Gene Interaction and Phenotype Effects](http://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460)
 
-« {{< resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Previous" >}} | {{< resource_link 87a11a60-4039-cc5e-e616-1303df9f2adb "Next" >}} »
+« {{% resource_link 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d "Previous" %}} | {{% resource_link 87a11a60-4039-cc5e-e616-1303df9f2adb "Next" %}} »

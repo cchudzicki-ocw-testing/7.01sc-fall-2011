@@ -9,7 +9,7 @@ title: Meet the TAs
 uid: 31b32df7-381e-729e-4a9e-93597670dfd1
 ---
 
-« {{< resource_link 94075d21-fac8-2243-1255-482464d464cb "Previous" >}} | {{< resource_link 59c0ffb4-f444-c63f-f21a-576415d7231d "Next" >}} »
+« {{% resource_link 94075d21-fac8-2243-1255-482464d464cb "Previous" %}} | {{% resource_link 59c0ffb4-f444-c63f-f21a-576415d7231d "Next" %}} »
 
 {{< resource 2410ffc2-0e79-6337-8d1e-bf36f46c4f70 >}} **Sera Thornton**  
 _Hi, I'm Sera, and I'm a graduate student in the Biology department here at MIT. I was a Biology Teaching Assistant (TA) in the Spring of 2011. I think the best part about the introductory biology course at MIT and on OCW is the variety of professors who teach the course - they are all very enthusiastic about sharing their love of biology's basic principles, and they each bring a slightly different perspective to the topics. I hope to lend more clarity to important topics with my video help sessions. Sometimes in class, discussion of a concept can be spread out over several lectures; it's often helpful to my understanding to review that concept in a more condensed format. I hope you find it helpful too!_
@@ -33,4 +33,4 @@ _Hi, my name is Robert and I'm a graduate student in the Biology Department at M
 
 Robert Dorkin is a Massachusetts native, having grown up in Newton, MA. He went to Swarthmore College for his undergraduate degree in Biochemistry. After graduating in 2006 he spent three years working at Anlylam Pharmaceuticals, an RNAi based biotech in Kendall square, before starting his biology PhD in 2009. Currently Robert is a graduate student in [Dr. Daniel Anderson's lab in the Koch Institute](http://ki.mit.edu/people/faculty/anderson) where he is continuing his research on liposomal based siRNA delivery to liver cells. Robert enjoys napping and world domination.
 
-« {{< resource_link 94075d21-fac8-2243-1255-482464d464cb "Previous" >}} | {{< resource_link 59c0ffb4-f444-c63f-f21a-576415d7231d "Next" >}} »
+« {{% resource_link 94075d21-fac8-2243-1255-482464d464cb "Previous" %}} | {{% resource_link 59c0ffb4-f444-c63f-f21a-576415d7231d "Next" %}} »

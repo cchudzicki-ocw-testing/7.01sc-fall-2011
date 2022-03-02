@@ -6,7 +6,7 @@ title: Genetics
 uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 ---
 
-« {{< resource_link 98cc6601-8736-3777-3cbf-aacbf1c527df "Previous" >}} | {{< resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Next" >}} »
+« {{% resource_link 98cc6601-8736-3777-3cbf-aacbf1c527df "Previous" %}} | {{% resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Next" %}} »
 
 {{< resource 5d365494-82c2-de9d-33f3-c4b7401845d2 >}}
 
@@ -20,6 +20,6 @@ By the end of this unit, you will understand the relationship of meiosis to Mend
 
 Finally, you will become familiar with the life cycle of yeast and understand the difference between a genetic screen and a genetic selection. You will have learned why mutants with mutations in different genes can have the same phenotype. You will understand tests of dominance, complementation, and epistasis, and why they are performed.
 
-Looking for something specific in this course? The {{< resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Resource Index" >}} compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Resource Index" %}} compiles links to most course resources in a single page.
 
-« {{< resource_link 98cc6601-8736-3777-3cbf-aacbf1c527df "Previous" >}} | {{< resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Next" >}} »
+« {{% resource_link 98cc6601-8736-3777-3cbf-aacbf1c527df "Previous" %}} | {{% resource_link 17d9f692-5f70-69f8-8155-be10fa8fa862 "Next" %}} »

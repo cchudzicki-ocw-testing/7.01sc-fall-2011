@@ -9,7 +9,7 @@ title: DNA Replication
 uid: 5d6487db-6d13-2ae2-f9e6-285a269f3404
 ---
 
-« {{< resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Previous" >}} | {{< resource_link 5e1363df-9828-a8e6-52b1-b90916e83b46 "Next" >}} »
+« {{% resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Previous" %}} | {{% resource_link 5e1363df-9828-a8e6-52b1-b90916e83b46 "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   {{< resource_link 5f9953c6-ec35-49a3-7e02-d1dace5eebd8 "DNA Replication" >}}
+*   {{% resource_link 5f9953c6-ec35-49a3-7e02-d1dace5eebd8 "DNA Replication" %}}
 
 Check Yourself
 --------------
@@ -67,12 +67,12 @@ Session Activities
 
 Watch the short video of Sera Thornton explaining the numbering and labeling conventions of RNA and of proteins.
 
-*   {{< resource_link f4448a8c-3331-c4f1-d253-697a6e86ca8f "Explanation of 5' and 3', C terminus, and N terminus" >}}
+*   {{% resource_link f4448a8c-3331-c4f1-d253-697a6e86ca8f "Explanation of 5' and 3', C terminus, and N terminus" %}}
 
 ### Practice Problems
 
-*   {{< resource_link d2cdbbbd-3edc-7495-1a83-787cbcc71f88 "Problems (PDF)" >}}
-*   {{< resource_link fce9be4a-d2d1-35ad-6519-68f967cf069b "Solutions (PDF)" >}}
+*   {{% resource_link d2cdbbbd-3edc-7495-1a83-787cbcc71f88 "Problems (PDF)" %}}
+*   {{% resource_link fce9be4a-d2d1-35ad-6519-68f967cf069b "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -86,4 +86,4 @@ Further Study
 *   [Replication: Mechanism of Replication (Basic), 3-D Animation Library](http://www.dnalc.org/resources/3d/03-mechanism-of-replication-basic.html)
 *   [Replication: Mechanism of Replication (Advanced), 3-D Animation Library](http://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html)
 
-« {{< resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Previous" >}} | {{< resource_link 5e1363df-9828-a8e6-52b1-b90916e83b46 "Next" >}} »
+« {{% resource_link 95026c63-e557-0d98-9ab2-ebdcc99b4dfd "Previous" %}} | {{% resource_link 5e1363df-9828-a8e6-52b1-b90916e83b46 "Next" %}} »
