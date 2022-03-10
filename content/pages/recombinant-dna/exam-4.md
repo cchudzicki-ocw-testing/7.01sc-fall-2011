@@ -9,7 +9,7 @@ title: Exam 4
 uid: ed024195-afd9-3012-8dae-c1f0592fe634
 ---
 
-« {{% resource_link fba42aaa-936f-9894-51b5-9a8798c9d7a0 "Previous" %}} | {{% resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Next" %}} »
+« [Previous]({{< baseurl >}}/pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr) | [Next]({{< baseurl >}}/pages/resource-index) »
 
 Session Overview
 ----------------
@@ -21,7 +21,7 @@ Check Yourself
 
 ### Exam and Solutions
 
-*   {{% resource_link 4163c886-f473-15a7-c233-6ad1d815e40b "Exam (PDF)" %}}
-*   {{% resource_link 3587be8a-06f4-44db-2f06-9c2f443f1838 "Solutions (PDF)" %}}
+*   [Exam (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam4)
+*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_exam4_sol)
 
-« {{% resource_link fba42aaa-936f-9894-51b5-9a8798c9d7a0 "Previous" %}} | {{% resource_link 10adacb2-c3e4-e7b3-d1c2-dbe3458a39e9 "Next" %}} »
+« [Previous]({{< baseurl >}}/pages/recombinant-dna/agarose-gel-electrophoresis-dna-sequencing-pcr) | [Next]({{< baseurl >}}/pages/resource-index) »

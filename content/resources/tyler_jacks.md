@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the Instructors
 parent_type: CourseSection
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Tyler_Jacks.jpg
 uid: ef37ee44-7ab5-c07a-fdb5-16306c932791

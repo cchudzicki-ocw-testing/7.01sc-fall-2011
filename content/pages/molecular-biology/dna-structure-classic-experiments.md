@@ -9,7 +9,7 @@ title: DNA Structure, Classic Experiments
 uid: 95026c63-e557-0d98-9ab2-ebdcc99b4dfd
 ---
 
-« {{% resource_link 0cf8a719-a58b-7f0e-6457-939f9b82d24d "Previous" %}} | {{% resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Next" %}} »
+« [Previous]({{< baseurl >}}/pages/molecular-biology) | [Next]({{< baseurl >}}/pages/molecular-biology/dna-replication) »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource c7c407f3-cbfe-0b39-65f3-f76e4706debc >}}
+![Molecbio_sess1.jpg]({{< resource_file c7c407f3-cbfe-0b39-65f3-f76e4706debc >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   {{% resource_link f647c673-ec49-b217-f5be-b03ae9d28f85 "DNA Structure and Classic experiments, Excerpt 1" %}}
+*   [DNA Structure and Classic experiments, Excerpt 1]({{< baseurl >}}/resources/dna-structure-and-classic-experiments-excerpt-1)
 
 Check Yourself
 --------------
@@ -78,8 +78,8 @@ Session Activities
 
 ### Practice Problems
 
-*   {{% resource_link 20445ba4-4a66-4923-fd74-ae15e3133723 "Problems (PDF)" %}}
-*   {{% resource_link 8b297b77-2b66-d90d-b5d8-7b214ccdb97b "Solutions (PDF)" %}}
+*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-1prob1)
+*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-1sol1)
 
 Further Study
 -------------
@@ -97,4 +97,4 @@ Further Study
 *   [Meselson and Stahl Experiment](https://www.youtube.com/watch?v=JcUQ_TZCG0w)
 *   "[Molecular Structure of Nucleic Acids](http://www.nature.com/physics/looking-back/crick/index.html)" (The original Watson and Crick paper)
 
-« {{% resource_link 0cf8a719-a58b-7f0e-6457-939f9b82d24d "Previous" %}} | {{% resource_link 5d6487db-6d13-2ae2-f9e6-285a269f3404 "Next" %}} »
+« [Previous]({{< baseurl >}}/pages/molecular-biology) | [Next]({{< baseurl >}}/pages/molecular-biology/dna-replication) »

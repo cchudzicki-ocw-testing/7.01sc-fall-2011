@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Proteins, Levels of Structure, Non-Covalent Forces
 parent_type: CourseSection
+parent_uid: 480f15d7-bdab-9947-028a-c0770af7091e
 resourcetype: Document
 title: MIT7_01SCF11_1.4amino.pdf
 uid: 274df9f4-b3ce-ad03-1889-d1a3448360d9

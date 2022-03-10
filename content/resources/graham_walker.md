@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the Instructors
 parent_type: CourseSection
+parent_uid: 94075d21-fac8-2243-1255-482464d464cb
 resourcetype: Image
 title: Graham_Walker.jpg
 uid: 15f29f55-d537-b94c-7181-a5066d376aab

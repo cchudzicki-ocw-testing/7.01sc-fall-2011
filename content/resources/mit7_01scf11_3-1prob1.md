@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Mendel's Laws
 parent_type: CourseSection
+parent_uid: 17d9f692-5f70-69f8-8155-be10fa8fa862
 resourcetype: Document
 title: MIT7_01SCF11_3.1prob1.pdf
 uid: cce73484-1839-0c92-229f-e8d718f5763d

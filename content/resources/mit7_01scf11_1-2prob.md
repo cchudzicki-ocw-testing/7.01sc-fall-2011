@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Covalent Bonds, Hydrogen Bonds
 parent_type: CourseSection
+parent_uid: 744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7
 resourcetype: Document
 title: MIT7_01SCF11_1.2prob.pdf
 uid: 7b1fe7c4-6ccb-c104-f8a3-080310d14d5a

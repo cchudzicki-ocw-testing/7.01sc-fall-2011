@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: DNA Replication
 parent_type: CourseSection
+parent_uid: 5d6487db-6d13-2ae2-f9e6-285a269f3404
 resourcetype: Document
 title: MIT7_01SCF11_2.2prob.pdf
 uid: d2cdbbbd-3edc-7495-1a83-787cbcc71f88

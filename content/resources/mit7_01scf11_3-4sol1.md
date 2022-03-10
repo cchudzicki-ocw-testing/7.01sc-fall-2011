@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Biochemical Genetics
 parent_type: CourseSection
+parent_uid: 4239d3cb-c2e6-6fa7-9750-7ed884c8c657
 resourcetype: Document
 title: MIT7_01SCF11_3.4sol1.pdf
 uid: 86234678-b1e7-ded9-e7f8-6b957c5a8bbb

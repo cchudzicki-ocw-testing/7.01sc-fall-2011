@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: 31b32df7-381e-729e-4a9e-93597670dfd1
 resourcetype: Image
 title: sera_thorton2.jpg
 uid: 2410ffc2-0e79-6337-8d1e-bf36f46c4f70

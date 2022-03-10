@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Biochemistry
 parent_type: CourseSection
+parent_uid: 59c0ffb4-f444-c63f-f21a-576415d7231d
 resourcetype: Image
 title: Biochem_Unit_image.jpg
 uid: ccdb398a-9ee3-21f4-6aec-ad712971d832

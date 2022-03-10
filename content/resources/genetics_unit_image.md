@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Genetics
 parent_type: CourseSection
+parent_uid: 2cd32ce3-922b-637b-26b8-13233170eb1c
 resourcetype: Image
 title: Genetics_Unit_image.jpg
 uid: 5d365494-82c2-de9d-33f3-c4b7401845d2

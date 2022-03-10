@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Recombinant DNA
 parent_type: CourseSection
+parent_uid: 824d49fe-ccb5-9688-5041-e7a7eca1b1fa
 resourcetype: Image
 title: Recomb_DNA_Unit_image.jpg
 uid: cfe2c2f8-01de-e14d-dc32-1a03ee4878b3

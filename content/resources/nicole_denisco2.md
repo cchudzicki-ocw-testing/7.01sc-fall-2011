@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: 31b32df7-381e-729e-4a9e-93597670dfd1
 resourcetype: Image
 title: nicole_denisco2.jpg
 uid: da761e7c-745a-2295-aa35-0df0e8637b03

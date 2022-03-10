@@ -3,7 +3,6 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
-ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'

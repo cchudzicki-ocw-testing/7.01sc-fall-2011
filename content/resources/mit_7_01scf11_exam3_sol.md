@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 3
 parent_type: CourseSection
+parent_uid: 87a11a60-4039-cc5e-e616-1303df9f2adb
 resourcetype: Document
 title: MIT_7_01SCF11_exam3_sol.pdf
 uid: 6d518508-492c-d5ed-a610-e3c04253aa51

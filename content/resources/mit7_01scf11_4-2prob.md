@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'
 parent_type: CourseSection
+parent_uid: 48a4a332-6cd9-0d0e-1436-d2c0b4637e30
 resourcetype: Document
 title: MIT7_01SCF11_4.2prob.pdf
 uid: 250d6996-d430-17c1-f504-7552b2d40f8c

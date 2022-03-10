@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Pedigrees
 parent_type: CourseSection
+parent_uid: 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d
 resourcetype: Document
 title: MIT7_01SCF11_3.3sol1.pdf
 uid: fc9adae0-d860-c52c-de83-e97909f3951a
