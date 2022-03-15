@@ -16,7 +16,7 @@ This course focuses on the basic principles of biochemistry, genetics, molecular
 
 There are no formal prerequisites for this course. At MIT, it is usually taken during the freshman (first) year.
 
-Prior to taking this course, you may want to review [_Pre-7.01 Getting up to Speed in Biology_](https://ocw.mit.edu/resources/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/), a self-paced course designed to help prepare students for their first college-level biology class.
+Prior to taking this course, you may want to review [_Pre-7.01 Getting up to Speed in Biology_](https://ocwnext.odl.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/), a self-paced course designed to help prepare students for their first college-level biology class.
 
 ## Course Goals
 
