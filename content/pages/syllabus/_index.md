@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 ---
-« [Previous](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors) »
+« [Previous](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
 
 ## Course Overview
 
@@ -76,7 +76,7 @@ This OCW Scholar course was developed by the following MIT Faculty and Teaching 
 - Prof. Penny Chisholm
 - Dr. Michelle Mischke
 
-_To learn more about the Faculty and Teaching Staff, visit the_ [_Meet the Instructors_](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) _page._
+_To learn more about the Faculty and Teaching Staff, visit the_ [_Meet the Instructors_](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) _page._
 
 The Help Session Videos were developed by the following MIT Teaching Assistants:
 
@@ -87,4 +87,4 @@ The Help Session Videos were developed by the following MIT Teaching Assistants:
 
 _To learn more about the_ _Teaching Assistants\__, visit the \[Meet the TAs\]({{< baseurl >}}/pages/syllabus/meet-the-tas) page.\_
 
-« [Previous](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
+« [Previous](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
