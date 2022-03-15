@@ -76,7 +76,7 @@ This OCW Scholar course was developed by the following MIT Faculty and Teaching 
 - Prof. Penny Chisholm
 - Dr. Michelle Mischke
 
-_To learn more about the Faculty and Teaching Staff, visit the \[Meet the Instructors\](_{{< baseurl >}}_/pages/syllabus/meet-the-instructors) page._
+_To learn more about the Faculty and Teaching Staff, visit the_ [_Meet the Instructors_](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) _page._
 
 The Help Session Videos were developed by the following MIT Teaching Assistants:
 
@@ -87,4 +87,4 @@ The Help Session Videos were developed by the following MIT Teaching Assistants:
 
 _To learn more about the_ _Teaching Assistants\__, visit the \[Meet the TAs\]({{< baseurl >}}/pages/syllabus/meet-the-tas) page.\_
 
-« \[Previous\]({{< baseurl >}}/) | \[Next\]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+« [Previous](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
