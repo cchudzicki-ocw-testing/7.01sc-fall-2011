@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 ---
-« [Previous](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | \[Next\]({{< baseurl >}}/pages/syllabus/meet-the-instructors) »
+« [Previous](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocw-published.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors) »
 
 ## Course Overview
 
