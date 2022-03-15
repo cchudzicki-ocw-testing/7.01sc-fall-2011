@@ -85,6 +85,6 @@ The Help Session Videos were developed by the following MIT Teaching Assistants:
 - Genevieve Michelle Gould
 - Nicole De Nisco
 
-_To learn more about the_ _Teaching Assistants\__, visit the [_Meet the TAs_](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-tas/) page.
+_To learn more about the_ _Teaching Assistants_, visit the [_Meet the TAs_](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-tas/) page.
 
 « [Previous](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
