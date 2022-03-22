@@ -54,11 +54,11 @@ Check Yourself
 ##### Question 1
  {{< quiz_multiple_choice questionId="MCQ1" >}} Shown below is the genomic structure of the human β-globin gene. The numbers within the boxes indicate the length (in nucleotides) of each region. The DNA sequences corresponding to the start codon and the stop codon are indicated.  
   
-{{< resource a175624b-9d27-9a0b-9377-d039a0d4f4df "" >}}  
+{{< resource "a175624b-9d27-9a0b-9377-d039a0d4f4df" >}}  
   
 Which regions are present in the initial transcript? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}both{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}exons{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}introns{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}Both introns and exons are present in the initial transcript.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 ##### Question 2
- {{< quiz_multiple_choice questionId="MCQ2" >}} {{< resource a175624b-9d27-9a0b-9377-d039a0d4f4df "" >}}  
+ {{< quiz_multiple_choice questionId="MCQ2" >}} {{< resource "a175624b-9d27-9a0b-9377-d039a0d4f4df" >}}  
   
 What is the length (in nucleotides) of the mature, processed β-globin mRNA? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}1600{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}438{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}620{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}980{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
 ##### Question 3
