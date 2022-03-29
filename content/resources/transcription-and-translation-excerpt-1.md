@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Transcription and translation, Excerpt 1
 uid: 88cf1c3f-ccb5-9957-e912-da7b8270c9c2
 video_files:

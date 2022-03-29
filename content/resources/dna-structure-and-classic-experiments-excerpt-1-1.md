@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: DNA Structure and Classic experiments, Excerpt 1
 uid: 2fc1c142-93cc-ebe4-38f1-3ca91ab14c73
 video_files:

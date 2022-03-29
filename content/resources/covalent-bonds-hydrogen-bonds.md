@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Covalent Bonds, Hydrogen Bonds
 uid: a63fc07a-bb74-c682-f945-72499694259e
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Linkage and Recombination, Genetic maps
 uid: 0bf92ac8-a7b3-c426-aa70-fe3745f53b45
 video_files:

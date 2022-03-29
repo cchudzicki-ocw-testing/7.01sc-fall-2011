@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2'
 uid: d671697b-72ac-e3aa-aa36-16d2e6fd27ef
 video_files:

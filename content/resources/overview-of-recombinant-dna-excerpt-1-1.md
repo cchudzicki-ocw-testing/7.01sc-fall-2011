@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Overview of Recombinant DNA, Excerpt 1
 uid: 9aa01e44-daa2-ef0d-ec0c-2a109287c6b2
 video_files:

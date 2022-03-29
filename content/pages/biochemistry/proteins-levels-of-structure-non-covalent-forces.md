@@ -69,7 +69,7 @@ Watch the lecture video excerpt
 Check Yourself
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
+[Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
 
 ##### Question 1
  {{< quiz_multiple_choice questionId="MCQ1" >}} The amino acids leucine, valine, and phenylalanine would best be described as… {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}non-polar{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and negatively charged{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and positively charged{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and uncharged{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
@@ -95,7 +95,7 @@ Further Study
 
 ### Study Guides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
+*   [Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
 
 ### Useful Links
 

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Basic Mechanisms of Cloning, Excerpt 2
 uid: 5fc93ea3-66d0-2ea8-05f4-4dffcb6012c0
 video_files:
