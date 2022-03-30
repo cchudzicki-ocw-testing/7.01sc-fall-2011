@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1840'
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '33'
 title: Gene Regulation
 uid: 60bd92e6-c2a5-53dc-664f-1259984d6785
 video_files:

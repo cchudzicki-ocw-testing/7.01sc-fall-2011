@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '2987'
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '444'
 title: Human Genetics
 uid: d520b15d-1a40-9a29-fc81-b479bfb77031
 video_files:
