@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 ---
-« [Previous](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
+« [Previous](/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
 
 ## Course Overview
 
@@ -16,7 +16,7 @@ This course focuses on the basic principles of biochemistry, genetics, molecular
 
 There are no formal prerequisites for this course. At MIT, it is usually taken during the freshman (first) year.
 
-Prior to taking this course, you may want to review [_Pre-7.01 Getting up to Speed in Biology_](https://ocwnext.odl.mit.edu/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/), a self-paced course designed to help prepare students for their first college-level biology class.
+Prior to taking this course, you may want to review [_Pre-7.01 Getting up to Speed in Biology_](/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/), a self-paced course designed to help prepare students for their first college-level biology class.
 
 ## Course Goals
 
@@ -76,7 +76,7 @@ This OCW Scholar course was developed by the following MIT Faculty and Teaching 
 - Prof. Penny Chisholm
 - Dr. Michelle Mischke
 
-_To learn more about the Faculty and Teaching Staff, visit the_ [_Meet the Instructors_](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) _page._
+_To learn more about the Faculty and Teaching Staff, visit the_ [_Meet the Instructors_](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) _page._
 
 The Help Session Videos were developed by the following MIT Teaching Assistants:
 
@@ -87,4 +87,4 @@ The Help Session Videos were developed by the following MIT Teaching Assistants:
 
 _To learn more about the_ _Teaching Assistants_, visit the [_Meet the TAs_](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-tas/) page.
 
-« [Previous](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](https://ocwnext.odl.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
+« [Previous](/courses/7-01sc-fundamentals-of-biology-fall-2011/) | [Next](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/syllabus/meet-the-instructors/) »
