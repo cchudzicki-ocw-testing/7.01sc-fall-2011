@@ -9,7 +9,7 @@ parent_uid: 09c1cc17-39ee-dda7-9e91-7363d9dc19be
 title: Meet the TAs
 uid: 31b32df7-381e-729e-4a9e-93597670dfd1
 ---
-« \[Previous\]({{< baseurl >}}/pages/syllabus/meet-the-instructors) | \[Next\]({{< baseurl >}}/pages/biochemistry) »
+« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-instructors) | [Next]({{< baseurl >}}/pages/biochemistry) »
 
 {{< resource 2410ffc2-0e79-6337-8d1e-bf36f46c4f70 >}}
 
@@ -39,4 +39,4 @@ _Hi, my name is Robert and I'm a graduate student in the Biology Department at M
 
 Robert Dorkin is a Massachusetts native, having grown up in Newton, MA. He went to Swarthmore College for his undergraduate degree in Biochemistry. After graduating in 2006 he spent three years working at Anlylam Pharmaceuticals, an RNAi based biotech in Kendall square, before starting his biology PhD in 2009. Currently Robert is a graduate student in [Dr. Daniel Anderson's lab in the Koch Institute](http://ki.mit.edu/people/faculty/anderson) where he is continuing his research on liposomal based siRNA delivery to liver cells. Robert enjoys napping and world domination.
 
-« \[Previous\]({{< baseurl >}}/pages/syllabus/meet-the-instructors) | \[Next\]({{< baseurl >}}/pages/biochemistry) »
+« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-instructors) | [Next]({{< baseurl >}}/pages/biochemistry) »
