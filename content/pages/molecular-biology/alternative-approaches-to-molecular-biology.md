@@ -9,7 +9,7 @@ title: Alternative Approaches to Molecular Biology
 uid: 6de3012a-82fd-d2a9-25a8-3b85e01dba3d
 ---
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/transcription-translation) | [Next]({{< baseurl >}}/pages/molecular-biology/gene-regulation-and-the-lac-operon) »
+« {{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Previous" %}} | {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Alternative Approaches to Molecular Biology]({{< baseurl >}}/resources/alternative-approaches-to-molecular-biology)
+*   {{% resource_link "6574efd7-9d91-ebdc-6a0f-8b399dee0f3b" "Alternative Approaches to Molecular Biology" %}}
 
 Check Yourself
 --------------
@@ -75,8 +75,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-4prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_2-4sol)
+*   {{% resource_link "1e8ae573-cb4f-3035-af55-5f9c200af5dd" "Problems (PDF)" %}}
+*   {{% resource_link "66339437-fecd-9fdc-19c5-16705430ed35" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -89,4 +89,4 @@ Further Study
 *   [RNA Splicing—An Introduction](http://www.youtube.com/watch?v=qmBtqppU6jY&feature=related)
 *   [HIV / AIDS Replication Animation Video](http://www.youtube.com/watch?v=hdgNnXLY8LU)
 
-« [Previous]({{< baseurl >}}/pages/molecular-biology/transcription-translation) | [Next]({{< baseurl >}}/pages/molecular-biology/gene-regulation-and-the-lac-operon) »
+« {{% resource_link "5e1363df-9828-a8e6-52b1-b90916e83b46" "Previous" %}} | {{% resource_link "b312d8ee-70ad-db9a-2f22-34a16a004e3f" "Next" %}} »

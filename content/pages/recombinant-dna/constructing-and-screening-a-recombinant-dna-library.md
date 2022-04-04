@@ -9,7 +9,7 @@ title: Constructing and Screening a Recombinant DNA Library
 uid: 52ce97d0-21cf-6f78-01e8-55ec0de2a3aa
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/basic-mechanics-of-cloning) | [Next]({{< baseurl >}}/pages/recombinant-dna/cdna-libraries-and-expression-libraries) »
+« {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Previous" %}} | {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +45,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Constructing and Screening a Recombinant DNA Library]({{< baseurl >}}/resources/constructing-and-screening-a-recombinant-dna-library)
+*   {{% resource_link "54cb88c8-55eb-62a8-94c1-ef68a1aa6333" "Constructing and Screening a Recombinant DNA Library" %}}
 
 Check Yourself
 --------------
@@ -75,12 +75,12 @@ Session Activities
 
 Watch the short video of Robert Dorkin explaining genomic libraries and cDNA libraries.
 
-*   [Genomic and cDNA Libraries]({{< baseurl >}}/resources/genomic-and-cdna-libraries)
+*   {{% resource_link "b34b57e6-5e96-90d4-a226-0e15b740b195" "Genomic and cDNA Libraries" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-3prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-3sol)
+*   {{% resource_link "2fc40841-6784-9d6d-0ffb-11312ffdb5c5" "Problems (PDF)" %}}
+*   {{% resource_link "496c855e-6593-00c1-4db8-e842939ca55d" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -91,4 +91,4 @@ Further Study
 *   [Construction of a DNA Library](http://www.sumanasinc.com/webcontent/animations/content/dnalibrary.html)
 *   [Library Generation](http://openwetware.org/wiki/Library_Generation)
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/basic-mechanics-of-cloning) | [Next]({{< baseurl >}}/pages/recombinant-dna/cdna-libraries-and-expression-libraries) »
+« {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Previous" %}} | {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Next" %}} »

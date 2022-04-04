@@ -9,7 +9,7 @@ title: Proteins, Levels of Structure, Non-Covalent Forces
 uid: 480f15d7-bdab-9947-028a-c0770af7091e
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid) | [Next]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) »
+« {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Previous" %}} | {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +45,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 1]({{< baseurl >}}/resources/proteins-levels-of-structure-non-covalent-forces-excerpt-1)
+*   {{% resource_link "d7cdb360-2248-e334-dd24-5a86210b4c94" "Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -64,12 +64,12 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 2]({{< baseurl >}}/resources/proteins-levels-of-structure-non-covalent-forces-excerpt-2)
+*   {{% resource_link "485e2ea8-afcc-518f-5160-cb406dc5047b" "Proteins, Levels of Structure, Non-Covalent Forces, Excerpt 2" %}}
 
 Check Yourself
 --------------
 
-[Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
+{{% resource_link "274df9f4-b3ce-ad03-1889-d1a3448360d9" "Structures of the 20 amino acids (PDF)" %}}
 
 ##### Question 1
  {{< quiz_multiple_choice questionId="MCQ1" >}} The amino acids leucine, valine, and phenylalanine would best be described as… {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}non-polar{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and negatively charged{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and positively charged{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}polar and uncharged{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
@@ -87,15 +87,15 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4sol)
+*   {{% resource_link "5e5e88ad-bc3c-016d-3f28-5f750b586537" "Problems (PDF)" %}}
+*   {{% resource_link "ddfbc7c0-6d0e-db74-6e93-90c964757b71" "Solutions (PDF)" %}}
 
 Further Study
 -------------
 
 ### Study Guides
 
-*   [Structures of the 20 amino acids (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-4amino)
+*   {{% resource_link "274df9f4-b3ce-ad03-1889-d1a3448360d9" "Structures of the 20 amino acids (PDF)" %}}
 
 ### Useful Links
 
@@ -104,4 +104,4 @@ Further Study
 *   [Primary, Secondary, Tertiary, and Quaternary Structure of Proteins](https://www.youtube.com/watch?v=ki9dwhCwMsI)
 *   [Gecko Locomotion videos](http://www.berkeley.edu/news/media/releases/2002/09/rfull/home.html)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/macromolecules-lipids-carbohydrates-nucleic-acid) | [Next]({{< baseurl >}}/pages/biochemistry/biochemical-reactions-enzymes-and-atp) »
+« {{% resource_link "dbb23892-11b1-a4f7-596b-adacfbfc68bf" "Previous" %}} | {{% resource_link "bd3cadf9-7b4d-db1e-b647-150dd3af6877" "Next" %}} »

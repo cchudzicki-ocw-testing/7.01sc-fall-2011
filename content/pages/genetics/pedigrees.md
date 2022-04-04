@@ -9,7 +9,7 @@ title: Pedigrees
 uid: 56e5ca78-5a28-8e6c-f93b-a1bb71306c8d
 ---
 
-« [Previous]({{< baseurl >}}/pages/genetics/linkage-and-recombination-genetic-maps) | [Next]({{< baseurl >}}/pages/genetics/biochemical-genetics) »
+« {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Previous" %}} | {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +45,7 @@ Session Activities
 
 For this session, watch the video lecture called "Human Genetics" by Prof. Eric Lander recorded in 2004, starting partway into the lecture until the end.
 
-*   [Human Genetics]({{< baseurl >}}/resources/human-genetics)
+*   {{% resource_link "8c9adb4b-dfdc-8542-ab88-beebdde67252" "Human Genetics" %}}
 
 Check Yourself
 --------------
@@ -64,12 +64,12 @@ Session Activities
 
 Watch the short video of Genny Gould explaining how to analyze a human pedigree (Question 2 in the practice problems below).
 
-*   [Pedigrees]({{< baseurl >}}/resources/pedigrees)
+*   {{% resource_link "36ad9507-562e-44db-00cb-39c0a798a69a" "Pedigrees" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-3prob1)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-3sol1)
+*   {{% resource_link "aab2c35a-40d3-7356-fdad-c9b9e5e23861" "Problems (PDF)" %}}
+*   {{% resource_link "fc9adae0-d860-c52c-de83-e97909f3951a" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -86,4 +86,4 @@ Further Study
 *   [Pedigree Analysis, Example 2](http://www.youtube.com/watch?v=ej2hFc8u_zQ&feature=mfu_in_order&list=UL)
 *   [Pedigree Analysis, Example 3](http://www.youtube.com/watch?v=UU3Ou0c9u0U&feature=mfu_in_order&list=UL)
 
-« [Previous]({{< baseurl >}}/pages/genetics/linkage-and-recombination-genetic-maps) | [Next]({{< baseurl >}}/pages/genetics/biochemical-genetics) »
+« {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Previous" %}} | {{% resource_link "4239d3cb-c2e6-6fa7-9750-7ed884c8c657" "Next" %}} »

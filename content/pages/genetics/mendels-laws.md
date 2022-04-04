@@ -9,7 +9,7 @@ title: Mendel's Laws
 uid: 17d9f692-5f70-69f8-8155-be10fa8fa862
 ---
 
-« [Previous]({{< baseurl >}}/pages/genetics) | [Next]({{< baseurl >}}/pages/genetics/linkage-and-recombination-genetic-maps) »
+« {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Previous" %}} | {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Next" %}} »
 
 Session Overview
 ----------------
@@ -47,7 +47,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Mendel's Laws, Excerpt 1]({{< baseurl >}}/resources/mendels-laws-excerpt-1)
+*   {{% resource_link "16cb495d-a058-6878-c5b4-1accef04fcb1" "Mendel's Laws, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -140,7 +140,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Mendel's Laws, Excerpt 2]({{< baseurl >}}/resources/mendels-laws-excerpt-2)
+*   {{% resource_link "02fc6185-4795-af10-306e-d4e44d2ed4b4" "Mendel's Laws, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -180,15 +180,15 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-1prob1)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-1sol1)
+*   {{% resource_link "cce73484-1839-0c92-229f-e8d718f5763d" "Problems (PDF)" %}}
+*   {{% resource_link "edef496d-9cc1-b0e3-b5c0-e35aec29f6ac" "Solutions (PDF)" %}}
 
 Further Study
 -------------
 
 ### Study Guides
 
-*   [Terms and definitions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_3-1terms)
+*   {{% resource_link "13aaf4b7-9c5d-9342-1a12-040f3fad06de" "Terms and definitions (PDF)" %}}
 
 ### Suggested topics for further study in an introductory-level Biology textbook
 
@@ -202,4 +202,4 @@ Further Study
 
 *   [StarGenetics - Mendelian Genetics Virtual Lab](http://web.mit.edu/star/genetics/)
 
-« [Previous]({{< baseurl >}}/pages/genetics) | [Next]({{< baseurl >}}/pages/genetics/linkage-and-recombination-genetic-maps) »
+« {{% resource_link "2cd32ce3-922b-637b-26b8-13233170eb1c" "Previous" %}} | {{% resource_link "06e0b88b-6715-9f8b-06c3-dbe3474bcaed" "Next" %}} »

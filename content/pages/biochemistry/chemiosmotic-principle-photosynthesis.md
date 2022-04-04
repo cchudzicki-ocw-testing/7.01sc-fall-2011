@@ -9,7 +9,7 @@ title: Photosynthesis
 uid: 21ec09e3-3607-ce4c-8530-a4a4a138a48f
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/respiration-and-fermentation) | [Next]({{< baseurl >}}/pages/biochemistry/exam-1) »
+« {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Previous" %}} | {{% resource_link "1dea315f-4392-12b8-84ba-e05ff4797b1e" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +45,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Photosynthesis]({{< baseurl >}}/resources/photosynthesis)
+*   {{% resource_link "ef249c72-d0de-d6b5-31af-d94634d70b92" "Photosynthesis" %}}
 
 Check Yourself
 --------------
@@ -63,8 +63,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-7prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-7sol)
+*   {{% resource_link "25f6bf69-6b75-c6ba-3f96-ad00dfed842b" "Problems (PDF)" %}}
+*   {{% resource_link "20d10b90-2b67-d561-a1d2-bc360d674398" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -75,4 +75,4 @@ Further Study
 *   [Shedding Light on Photosynthesis](http://www.youtube.com/watch?v=OlzbVr7XEeU&list=UUE-DexCad-ctXVTE6OhZP8w&index=3&feature=plcp)
 *   [What is Photosynthesis?](http://www.life.illinois.edu/govindjee/whatisit.htm)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/respiration-and-fermentation) | [Next]({{< baseurl >}}/pages/biochemistry/exam-1) »
+« {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Previous" %}} | {{% resource_link "1dea315f-4392-12b8-84ba-e05ff4797b1e" "Next" %}} »

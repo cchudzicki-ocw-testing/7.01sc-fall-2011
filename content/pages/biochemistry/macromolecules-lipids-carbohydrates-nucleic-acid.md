@@ -9,7 +9,7 @@ title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 uid: dbb23892-11b1-a4f7-596b-adacfbfc68bf
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/covalent-bonds-hydrogen-bonds) | [Next]({{< baseurl >}}/pages/biochemistry/proteins-levels-of-structure-non-covalent-forces) »
+« {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Previous" %}} | {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Next" %}} »
 
 Session Overview
 ----------------
@@ -44,7 +44,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 1]({{< baseurl >}}/resources/macromolecules-lipids-carbohydrates-nucleic-acid-excerpt-1)
+*   {{% resource_link "96d0c6ac-1ee1-71e8-4661-e7115e9c84e8" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -71,7 +71,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2]({{< baseurl >}}/resources/macromolecules-lipids-carbohydrates-nucleic-acid-excerpt-2)
+*   {{% resource_link "d671697b-72ac-e3aa-aa36-16d2e6fd27ef" "Macromolecules: Lipids, Carbohydrates, Nucleic Acid, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -93,12 +93,12 @@ Session Activities
 
 Watch the short video of Nicole DeNisco explaining phospholipids, phosphate, and nucleic acids, that refers to Question 1 in the practice problems below.
 
-*   [Lipids, Carbohydrates, and Nucleic Acids Practice Problem]({{< baseurl >}}/resources/lipids-carbohydrates-and-nucleic-acids-practice-problem)
+*   {{% resource_link "21fdc52d-7de4-9a5b-de0f-4466dfaf7320" "Lipids, Carbohydrates, and Nucleic Acids Practice Problem" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-3prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-3sol)
+*   {{% resource_link "41d1c1f8-50ca-eebb-8ba7-e32830c9da55" "Problems (PDF)" %}}
+*   {{% resource_link "a7768ab8-55fe-720f-db5b-53b5ee2a8855" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -112,4 +112,4 @@ Further Study
 *   [Building Blocks of DNA](https://www.biointeractive.org/classroom-resources/building-blocks-dna)
 *   [Chargaff's Ratio](https://www.biointeractive.org/classroom-resources/chargaffs-ratio)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/covalent-bonds-hydrogen-bonds) | [Next]({{< baseurl >}}/pages/biochemistry/proteins-levels-of-structure-non-covalent-forces) »
+« {{% resource_link "744f8f0d-6a1f-189b-b5d2-07ad8b5cc8f7" "Previous" %}} | {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Next" %}} »

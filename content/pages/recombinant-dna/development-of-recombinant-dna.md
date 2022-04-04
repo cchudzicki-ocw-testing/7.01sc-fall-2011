@@ -9,7 +9,7 @@ title: Development of Recombinant DNA
 uid: 80ef79a7-dab2-b9c7-0a69-4b5b5192cc36
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna) | [Next]({{< baseurl >}}/pages/recombinant-dna/basic-mechanics-of-cloning) »
+« {{% resource_link "824d49fe-ccb5-9688-5041-e7a7eca1b1fa" "Previous" %}} | {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Overview of Recombinant DNA, Excerpt 1]({{< baseurl >}}/resources/overview-of-recombinant-dna-excerpt-1)
+*   {{% resource_link "cb7cff11-392c-479c-1647-0b24c3923184" "Overview of Recombinant DNA, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -64,7 +64,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Overview of Recombinant DNA, Excerpt 2]({{< baseurl >}}/resources/overview-of-recombinant-dna-excerpt-2)
+*   {{% resource_link "b07a144e-72d3-2320-fb75-e03134fe25b6" "Overview of Recombinant DNA, Excerpt 2" %}}
 
 Further Study
 -------------
@@ -77,4 +77,4 @@ Further Study
 
 *   [History of Genentech](http://www.gene.com/gene/about/corporate/history/)
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna) | [Next]({{< baseurl >}}/pages/recombinant-dna/basic-mechanics-of-cloning) »
+« {{% resource_link "824d49fe-ccb5-9688-5041-e7a7eca1b1fa" "Previous" %}} | {{% resource_link "48a4a332-6cd9-0d0e-1436-d2c0b4637e30" "Next" %}} »

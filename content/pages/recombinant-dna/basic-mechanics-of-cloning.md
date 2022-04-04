@@ -9,7 +9,7 @@ title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'
 uid: 48a4a332-6cd9-0d0e-1436-d2c0b4637e30
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/development-of-recombinant-dna) | [Next]({{< baseurl >}}/pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library) »
+« {{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Previous" %}} | {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Next" %}} »
 
 Session Overview
 ----------------
@@ -47,7 +47,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Basic Mechanisms of Cloning, Excerpt 1]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-1)
+*   {{% resource_link "5eac74d5-05f4-9262-16e0-d6523436f3d1" "Basic Mechanisms of Cloning, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -68,7 +68,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Basic Mechanisms of Cloning, Excerpt 2]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-2)
+*   {{% resource_link "5fc93ea3-66d0-2ea8-05f4-4dffcb6012c0" "Basic Mechanisms of Cloning, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -88,7 +88,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Basic Mechanisms of Cloning, Excerpt 3]({{< baseurl >}}/resources/basic-mechanisms-of-cloning-excerpt-3)
+*   {{% resource_link "77fb560e-3cb5-3eaa-27e7-eba91c52b821" "Basic Mechanisms of Cloning, Excerpt 3" %}}
 
 Check Yourself
 --------------
@@ -115,8 +115,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-2prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-2sol)
+*   {{% resource_link "250d6996-d430-17c1-f504-7552b2d40f8c" "Problems (PDF)" %}}
+*   {{% resource_link "deefeb11-a1f7-69d5-bea1-8e7011bd76a1" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -130,4 +130,4 @@ Further Study
 *   [Cloning in a Plasmid Vector](http://www.youtube.com/watch?v=acKWdNj936o)
 *   [Key Steps of Molecular Cloning](http://www.youtube.com/watch?v=sjwNtQYLKeU&feature=related)
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/development-of-recombinant-dna) | [Next]({{< baseurl >}}/pages/recombinant-dna/constructing-and-screening-a-recombinant-dna-library) »
+« {{% resource_link "80ef79a7-dab2-b9c7-0a69-4b5b5192cc36" "Previous" %}} | {{% resource_link "52ce97d0-21cf-6f78-01e8-55ec0de2a3aa" "Next" %}} »

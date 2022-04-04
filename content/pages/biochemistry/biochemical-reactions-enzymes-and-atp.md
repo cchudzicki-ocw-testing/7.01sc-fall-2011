@@ -9,7 +9,7 @@ title: Biochemical Reactions, Enzymes, and ATP
 uid: bd3cadf9-7b4d-db1e-b647-150dd3af6877
 ---
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/proteins-levels-of-structure-non-covalent-forces) | [Next]({{< baseurl >}}/pages/biochemistry/respiration-and-fermentation) »
+« {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Previous" %}} | {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Next" %}} »
 
 Session Overview
 ----------------
@@ -46,7 +46,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Biochemical Reactions, Enzymes, and ATP]({{< baseurl >}}/resources/biochemical-reactions-enzymes-and-atp)
+*   {{% resource_link "39d51ccb-8c4f-45a0-ab03-ca8203a31c74" "Biochemical Reactions, Enzymes, and ATP" %}}
 
 Check Yourself
 --------------
@@ -68,8 +68,8 @@ Session Activities
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-5prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_1-5sol)
+*   {{% resource_link "a61124da-1927-b71d-c733-26804a802b39" "Problems (PDF)" %}}
+*   {{% resource_link "653bf5bd-ea89-11e0-e42e-998999d13cb9" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -80,4 +80,4 @@ Further Study
 *   [Enzyme-Catalyzed Reactions](http://www.youtube.com/watch?v=kSiFdzITPI0&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=7&feature=plcp)
 *   [ATP and Coupled Reactions](http://www.youtube.com/watch?v=4O6DFv2p5js&list=UUzL5_XrNsQAbEKPv-EBSnSg&index=6&feature=plcp)
 
-« [Previous]({{< baseurl >}}/pages/biochemistry/proteins-levels-of-structure-non-covalent-forces) | [Next]({{< baseurl >}}/pages/biochemistry/respiration-and-fermentation) »
+« {{% resource_link "480f15d7-bdab-9947-028a-c0770af7091e" "Previous" %}} | {{% resource_link "3998b78c-9a61-3c82-442f-d3aae9f91274" "Next" %}} »

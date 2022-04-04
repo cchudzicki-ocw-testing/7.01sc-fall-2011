@@ -9,7 +9,7 @@ title: Agarose Gel Electrophoresis, DNA Sequencing, PCR
 uid: fba42aaa-936f-9894-51b5-9a8798c9d7a0
 ---
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/cdna-libraries-and-expression-libraries) | [Next]({{< baseurl >}}/pages/recombinant-dna/exam-4) »
+« {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Previous" %}} | {{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Next" %}} »
 
 Session Overview
 ----------------
@@ -45,7 +45,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1]({{< baseurl >}}/resources/agarose-gel-electrophoresis-dna-sequencing-pcr-excerpt-1)
+*   {{% resource_link "cc68eeec-8d6f-6f78-b9ba-dda1de1ff5c8" "Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 1" %}}
 
 Check Yourself
 --------------
@@ -62,7 +62,7 @@ Session Activities
 
 Watch the lecture video excerpt
 
-*   [Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 2]({{< baseurl >}}/resources/agarose-gel-electrophoresis-dna-sequencing-pcr-excerpt-2)
+*   {{% resource_link "5eb9d2fa-5570-dc0e-b3a1-e4d291e814d3" "Agarose Gel Electrophoresis, DNA Sequencing, PCR, Excerpt 2" %}}
 
 Check Yourself
 --------------
@@ -84,12 +84,12 @@ Session Activities
 
 Watch the short video of Robert Dorkin explaining the Polymerase Chain Reaction (PCR) and DNA sequencing.
 
-*   [Polymerase Chain Reaction (PCR)]({{< baseurl >}}/resources/polymerase-chain-reaction-pcr)
+*   {{% resource_link "ade6454a-d0d5-3f9f-8ef2-0c71aa85b408" "Polymerase Chain Reaction (PCR)" %}}
 
 ### Practice Problems
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-5prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit7_01scf11_4-5sol)
+*   {{% resource_link "a174da59-6538-49f9-aee3-896e7acdaaad" "Problems (PDF)" %}}
+*   {{% resource_link "26dde39c-71e7-504a-61e2-678c12ea1024" "Solutions (PDF)" %}}
 
 Further Study
 -------------
@@ -101,4 +101,4 @@ Further Study
 *   [Biology Animation Library](http://www.dnalc.org/resources/animations/pcr.html)
 *   [PCR Virtual Lab](http://learn.genetics.utah.edu/content/labs/pcr/)
 
-« [Previous]({{< baseurl >}}/pages/recombinant-dna/cdna-libraries-and-expression-libraries) | [Next]({{< baseurl >}}/pages/recombinant-dna/exam-4) »
+« {{% resource_link "ea56404f-54a8-7d1d-4cf2-1c7a12786b51" "Previous" %}} | {{% resource_link "ed024195-afd9-3012-8dae-c1f0592fe634" "Next" %}} »
