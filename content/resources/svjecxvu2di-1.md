@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/1ab7872d3c145b1d3af260997fdc39fa_SvjeCxVu2dI.pdf
+file: /courses/7-01sc-fundamentals-of-biology-fall-2011/1ab7872d3c145b1d3af260997fdc39fa_SvjeCxVu2dI.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

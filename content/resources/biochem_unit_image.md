@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-01sc-fundamentals-of-biology-fall-2011/ccdb398a9ee321f46aecad712971d832_Biochem_Unit_image.jpg
+file: /courses/7-01sc-fundamentals-of-biology-fall-2011/ccdb398a9ee321f46aecad712971d832_Biochem_Unit_image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
