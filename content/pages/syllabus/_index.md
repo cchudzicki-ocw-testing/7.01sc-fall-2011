@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on prerequisites,
+  goals, format, and the team.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
