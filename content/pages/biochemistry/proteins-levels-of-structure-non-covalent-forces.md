@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will introduce the general composition, structure, and function
+  of proteins. The relationship between structure and function of a protein will be
+  emphasized.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

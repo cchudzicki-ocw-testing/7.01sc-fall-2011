@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This unit introduces some classic experiments in Molecular Biology, which
+  led to the discovery of DNA as the hereditary material, the structure of DNA, and
+  the semi-conservative model of DNA replication. We will cover DNA replication, and
+  how the cell uses its DNA instructions to make an RNA message, and an RNA message
+  to make a protein. Some variations to the standard mechanisms of DNA replication,
+  transcription and translation will also be discussed. Finally, we will cover some
+  of the general principles of gene regulation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Molecular Biology

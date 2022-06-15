@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will explain why inheritance does not always follow Mendel's
+  rules, or the rules predicted for the chromosome theory of inheritance.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics

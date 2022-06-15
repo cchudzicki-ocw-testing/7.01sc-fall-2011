@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will outline why recombinant DNA technologies were developed
+  and how they are used today in many different scientific arenas.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA

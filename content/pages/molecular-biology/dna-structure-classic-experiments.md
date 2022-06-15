@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This session will explain early experiments in Molecular Biology. Outlined
+  are classic experiments by Avery, Griffith, Hershey, and Chase that demonstrated
+  DNA was the hereditary material, background on Chargaff, Watson, Crick, and Franklin
+  and how their discoveries contributed to the discovery of the structure of DNA,
+  and details regarding how the semi-conservative model of DNA replication was shown
+  by Meselson and Stahl.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology

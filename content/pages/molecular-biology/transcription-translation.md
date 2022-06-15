@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will explain how the cell uses its DNA instructions to make
+  a RNA message, and the RNA message to make a protein.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will introduce the general ideas of both cyclic and non-cyclic
+  photophosphorylation and how these two processes are used by cells to generate the
+  ATP and the NADPH needed for the Calvin Cycle in photosynthesis.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

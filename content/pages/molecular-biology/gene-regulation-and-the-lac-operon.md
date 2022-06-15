@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will briefly outline some general principles of gene regulation.
+  In addition, a specific example of gene regulation in bacteria will be presented
+  in detail.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology

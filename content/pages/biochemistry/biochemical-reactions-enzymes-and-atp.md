@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will introduce basic ideas of metabolism, Gibbs free energy,
+  biochemical reactions, enzymes and ATP as the energy currency.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

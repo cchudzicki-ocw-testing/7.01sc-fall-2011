@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This session will introduce the general structure and function of the
+  biological macromolecules: lipids, carbohydrates, and nucleic acids.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

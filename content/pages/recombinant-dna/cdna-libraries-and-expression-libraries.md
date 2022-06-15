@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This session will review how to make a recombinant cDNA library and how
+  to use this library to find a specific gene. This session will outline the differences
+  between a genomic and a cDNA library, and discuss how to use a cDNA library to clone
+  a gene of interest.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA

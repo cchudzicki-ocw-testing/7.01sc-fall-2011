@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will outline how to construct a family pedigree, and how
+  to interpret the information in a pedigree using Mendel's laws of inheritance and
+  an understanding of the chromosome theory of inheritance.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session will explain how DNA is replicated prior to cell division.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology

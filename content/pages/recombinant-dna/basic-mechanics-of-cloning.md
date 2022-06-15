@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This session will cover 1) what restriction enzymes are and how they
+  cut DNA, 2) the different types of restriction enzymes and the advantages and disadvantages
+  of using them, and 3) how restriction enzymes are used to create a recombinant DNA
+  molecule.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA

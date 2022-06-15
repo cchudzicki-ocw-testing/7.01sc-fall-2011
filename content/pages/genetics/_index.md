@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This unit will cover the background and assumptions that Mendel made
+  regarding the inheritance of particular traits, the hypotheses he developed, the
+  experiments he performed to test the hypotheses, and the conclusions he made.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Genetics

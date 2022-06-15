@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will outline methods to analyze genes identified through
+  recombinant DNA technologies.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA

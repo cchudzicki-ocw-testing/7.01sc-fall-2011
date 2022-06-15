@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will review how to make a recombinant genomic DNA library
+  and how to use this library to find a specific gene. This session will outline using
+  a library to clone a gene by complementation of a mutant phenotype.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Recombinant DNA

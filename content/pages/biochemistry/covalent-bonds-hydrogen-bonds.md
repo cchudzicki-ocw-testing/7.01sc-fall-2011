@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session will introduce the structure of biological molecules and
+  the molecular forces involved in the formation of these molecules.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

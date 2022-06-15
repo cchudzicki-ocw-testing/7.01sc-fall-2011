@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This unit will cover some basic recombinant DNA technologies, why they
+  were developed, and how they are used today in many different scientific arenas.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Recombinant DNA

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this session some variations to the standard mechanisms of DNA replication,
+  transcription and translation are discussed. The minor differences in DNA replication,
+  transcription and translation in eukaryotes, prokaryotes, and viruses are discussed
+  as a way to more fully understand the important processes involved in the copying
+  and expression of genomes.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Molecular Biology

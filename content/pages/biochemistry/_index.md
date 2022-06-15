@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This unit introduces the course and covers the basics of biochemistry
+  and cell composition.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Biochemistry

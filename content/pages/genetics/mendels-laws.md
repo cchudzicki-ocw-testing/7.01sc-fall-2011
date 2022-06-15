@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This session will cover the background and assumptions that Mendel made
+  regarding the inheritance of particular traits, the hypotheses he developed, the
+  experiments he performed to test the hypotheses, and the conclusions he made. In
+  addition, how offspring acquire genes (and thus traits) from parents by inheriting
+  chromosomes, and how the movement of chromosomes during meiosis is related to Mendel's
+  rules of inheritance will be emphasized.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics

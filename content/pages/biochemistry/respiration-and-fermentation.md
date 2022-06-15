@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This session will outline the cellular mechanisms for harvesting energy
+  from glucose and related sugars. It will briefly outline glycolysis as a mechanism
+  to generate ATP and discuss the fate of the pyruvate produced in glycolysis under
+  anaerobic and aerobic conditions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry

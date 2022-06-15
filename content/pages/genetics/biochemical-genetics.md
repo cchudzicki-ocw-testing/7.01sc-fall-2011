@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This session will explain how a collection of mutants with the same phenotype
+  can be used to study a biochemical pathway. In effect, this session outlines how
+  genetics can be used to study biochemistry. It includes a discussion of yeast as
+  a model system. It outlines how to identify mutants with mutations in the same pathway,
+  how to characterize the mutants into complementation groups, and how to use epistasis
+  tests to infer details about a biochemical pathway.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Genetics
