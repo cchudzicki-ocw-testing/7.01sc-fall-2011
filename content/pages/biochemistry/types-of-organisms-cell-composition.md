@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session will introduce the course and cover the basics of cell composition.
+  It will also introduce the different types of organisms and the basic differences
+  between them.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Biochemistry
