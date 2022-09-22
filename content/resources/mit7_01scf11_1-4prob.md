@@ -5,6 +5,7 @@ description: This resource contains problem set related to proteins, levels of s
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/5e5e88adbc3c016d3f285f750b586537_MIT7_01SCF11_1.4prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Proteins, Levels of Structure, Non-Covalent Forces
 parent_type: CourseSection

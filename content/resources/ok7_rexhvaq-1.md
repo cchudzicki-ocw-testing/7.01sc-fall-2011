@@ -4,6 +4,7 @@ description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/47c8fea50a0464f651b1f38970726f2b_OK7_ReXhVaQ.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

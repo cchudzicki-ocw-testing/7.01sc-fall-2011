@@ -5,6 +5,7 @@ description: This resource contains problem set related to cDNA libraries and ex
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/b18b00b52f02597142351020c248513b_MIT7_01SCF11_4.4prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: cDNA Libraries and Expression Libraries
 parent_type: CourseSection

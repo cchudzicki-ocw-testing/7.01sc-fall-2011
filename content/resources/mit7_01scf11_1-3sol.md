@@ -5,6 +5,7 @@ description: 'This resource contains solution to the problem set related to macr
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/a7768ab855fe720fdb5b53b5ee2a8855_MIT7_01SCF11_1.3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Macromolecules: Lipids, Carbohydrates, Nucleic Acid'
 parent_type: CourseSection

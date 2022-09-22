@@ -5,6 +5,7 @@ description: 'This resource contains problem set related to macromolecules: lipi
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/7b1fe7c46ccbc104f8a3080310d14d5a_MIT7_01SCF11_1.2prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Covalent Bonds, Hydrogen Bonds
 parent_type: CourseSection

@@ -5,6 +5,7 @@ description: This resource contains solution to the problem set related to basic
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/deefeb11a1f769d5bea18e7011bd76a1_MIT7_01SCF11_4.2sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Basic Mechanics of Cloning: Restriction Enzymes & Cloning Vectors'
 parent_type: CourseSection

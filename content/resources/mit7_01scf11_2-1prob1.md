@@ -5,6 +5,7 @@ description: This resource contains problem set related to DNA structure, classi
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/20445ba44a664923fd74ae15e3133723_MIT7_01SCF11_2.1prob1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: DNA Structure, Classic Experiments
 parent_type: CourseSection

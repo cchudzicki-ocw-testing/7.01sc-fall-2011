@@ -4,6 +4,7 @@ description: ''
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/32978b0d1afb90f5579ab12966f58e1c_MIT7_01SCF11_2.3sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Transcription, Translation
 parent_type: CourseSection

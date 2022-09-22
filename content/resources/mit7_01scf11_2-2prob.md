@@ -5,6 +5,7 @@ description: This resource contains problem sets related to practice problems fo
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/d2cdbbbd3edc74951a83787cbcc71f88_MIT7_01SCF11_2.2prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: DNA Replication
 parent_type: CourseSection

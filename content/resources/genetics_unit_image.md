@@ -9,6 +9,7 @@ image_metadata:
   image-alt: a diagram showing circles and squares arranged in a tree formation to
     represent the inheritance of genetic traits in humans.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Genetics
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: This resource is a help session problem for biochemical genetics.
 file: /courses/7-01sc-fundamentals-of-biology-fall-2011/c2b922885acce04edfaca18ba410f636_MIT_7_01SCF11_3.4recprob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Biochemical Genetics
 parent_type: CourseSection
