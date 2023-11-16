@@ -46,7 +46,7 @@ Question 1
 2. Transform DNA into host bacterial cells
 3. Cut DNA of interest
 4. Select bacterial host cells that have been transformed
-5. Paste DNA of interest into vectors {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}a, c, b, d, e{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}c, b, e, d, a{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}c, e, b, d, a{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}e, c, d, b, a{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution "/" >}}{{< /quiz_multiple_choice >}}
+5. Paste DNA of interest into vectors {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}a, c, b, d, e{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}c, b, e, d, a{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}c, e, b, d, a{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}e, c, d, b, a{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution />}}{{< /quiz_multiple_choice >}}
 
 ## Session Activities
 
